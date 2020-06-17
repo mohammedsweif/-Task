@@ -1,0 +1,84 @@
+C:\Users\C.M\source\repos\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.deps.json
+C:\Users\C.M\source\repos\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.dll
+C:\Users\C.M\source\repos\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.pdb
+C:\Users\C.M\source\repos\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csprojAssemblyReference.cache
+C:\Users\C.M\source\repos\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.AssemblyInfoInputs.cache
+C:\Users\C.M\source\repos\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.AssemblyInfo.cs
+C:\Users\C.M\source\repos\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.dll
+C:\Users\C.M\source\repos\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.pdb
+C:\Users\C.M\source\repos\Data\Inferastructure\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\source\repos\Data\Inferastructure\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\source\repos\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csproj.CopyComplete
+C:\Users\C.M\source\repos\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csproj.CoreCompileInputs.cache
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.deps.json
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.pdb
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Inferastructure\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Inferastructure\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csprojAssemblyReference.cache
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.AssemblyInfoInputs.cache
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.AssemblyInfo.cs
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csproj.CoreCompileInputs.cache
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csproj.CopyComplete
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.pdb
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.deps.json
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.pdb
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Inferastructure\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Inferastructure\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csprojAssemblyReference.cache
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.AssemblyInfoInputs.cache
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.AssemblyInfo.cs
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csproj.CoreCompileInputs.cache
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csproj.CopyComplete
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.pdb
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.deps.json
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.pdb
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Inferastructure\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Inferastructure\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csprojAssemblyReference.cache
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csproj.CoreCompileInputs.cache
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.AssemblyInfoInputs.cache
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.AssemblyInfo.cs
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csproj.CopyComplete
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.pdb
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.deps.json
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.pdb
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Inferastructure\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Inferastructure\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csprojAssemblyReference.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.AssemblyInfoInputs.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.AssemblyInfo.cs
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csproj.CopyComplete
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.pdb
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csproj.CoreCompileInputs.cache
+F:\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.deps.json
+F:\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.dll
+F:\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.pdb
+F:\Data\Inferastructure\bin\Debug\netcoreapp3.1\Data.dll
+F:\Data\Inferastructure\bin\Debug\netcoreapp3.1\Data.pdb
+F:\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csprojAssemblyReference.cache
+F:\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csproj.CoreCompileInputs.cache
+F:\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.AssemblyInfoInputs.cache
+F:\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.AssemblyInfo.cs
+F:\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csproj.CopyComplete
+F:\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.dll
+F:\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.pdb
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.deps.json
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Inferastructure\bin\Debug\netcoreapp3.1\Inferastructure.pdb
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Inferastructure\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Inferastructure\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csprojAssemblyReference.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.AssemblyInfoInputs.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.AssemblyInfo.cs
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csproj.CoreCompileInputs.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.csproj.CopyComplete
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Inferastructure\obj\Debug\netcoreapp3.1\Inferastructure.pdb

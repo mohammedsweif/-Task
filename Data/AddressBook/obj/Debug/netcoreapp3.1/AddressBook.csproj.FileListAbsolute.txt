@@ -1,0 +1,560 @@
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.exe
+C:\Users\C.M\source\repos\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csprojAssemblyReference.cache
+C:\Users\C.M\source\repos\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfoInputs.cache
+C:\Users\C.M\source\repos\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfo.cs
+C:\Users\C.M\source\repos\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.RazorTargetAssemblyInfo.cache
+C:\Users\C.M\source\repos\Data\AddressBook\obj\Debug\netcoreapp3.1\staticwebassets\AddressBook.StaticWebAssets.Manifest.cache
+C:\Users\C.M\source\repos\Data\AddressBook\obj\Debug\netcoreapp3.1\staticwebassets\AddressBook.StaticWebAssets.xml
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.deps.json
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.json
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.dev.json
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.pdb
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\source\repos\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.CopyComplete
+C:\Users\C.M\source\repos\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.dll
+C:\Users\C.M\source\repos\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.pdb
+C:\Users\C.M\source\repos\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.genruntimeconfig.cache
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Inferastructure.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\Inferastructure.pdb
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\C.M\source\repos\Data\AddressBook\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\C.M\source\repos\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\C.M\source\repos\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.exe
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.deps.json
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.json
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.dev.json
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.pdb
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Inferastructure.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\bin\Debug\netcoreapp3.1\Inferastructure.pdb
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csprojAssemblyReference.cache
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfoInputs.cache
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfo.cs
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.RazorTargetAssemblyInfo.cache
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.CopyComplete
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\obj\Debug\netcoreapp3.1\staticwebassets\AddressBook.StaticWebAssets.Manifest.cache
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\obj\Debug\netcoreapp3.1\staticwebassets\AddressBook.StaticWebAssets.xml
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.pdb
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.genruntimeconfig.cache
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.exe
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.deps.json
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.json
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.dev.json
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.pdb
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Inferastructure.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Inferastructure.pdb
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csprojAssemblyReference.cache
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfoInputs.cache
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfo.cs
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.RazorTargetAssemblyInfo.cache
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.CopyComplete
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\staticwebassets\AddressBook.StaticWebAssets.Manifest.cache
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\staticwebassets\AddressBook.StaticWebAssets.xml
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.pdb
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.genruntimeconfig.cache
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.exe
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.deps.json
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.json
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.dev.json
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.pdb
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Inferastructure.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\bin\Debug\netcoreapp3.1\Inferastructure.pdb
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csprojAssemblyReference.cache
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfoInputs.cache
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfo.cs
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.RazorTargetAssemblyInfo.cache
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.CopyComplete
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\staticwebassets\AddressBook.StaticWebAssets.Manifest.cache
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\staticwebassets\AddressBook.StaticWebAssets.xml
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.pdb
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.genruntimeconfig.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.exe
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.deps.json
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.json
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.dev.json
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.pdb
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Inferastructure.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\bin\Debug\netcoreapp3.1\Inferastructure.pdb
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csprojAssemblyReference.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfoInputs.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfo.cs
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.RazorTargetAssemblyInfo.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.CopyComplete
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\obj\Debug\netcoreapp3.1\staticwebassets\AddressBook.StaticWebAssets.Manifest.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\obj\Debug\netcoreapp3.1\staticwebassets\AddressBook.StaticWebAssets.xml
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.pdb
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.genruntimeconfig.cache
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.exe
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.deps.json
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.json
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.dev.json
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.pdb
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Castle.Core.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\ClosedXML.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Data.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Inferastructure.dll
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Data.pdb
+F:\Data\AddressBook\bin\Debug\netcoreapp3.1\Inferastructure.pdb
+F:\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csprojAssemblyReference.cache
+F:\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.CoreCompileInputs.cache
+F:\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.MvcApplicationPartsAssemblyInfo.cache
+F:\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfoInputs.cache
+F:\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfo.cs
+F:\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.RazorTargetAssemblyInfo.cache
+F:\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.CopyComplete
+F:\Data\AddressBook\obj\Debug\netcoreapp3.1\staticwebassets\AddressBook.StaticWebAssets.Manifest.cache
+F:\Data\AddressBook\obj\Debug\netcoreapp3.1\staticwebassets\AddressBook.StaticWebAssets.xml
+F:\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.dll
+F:\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.pdb
+F:\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.genruntimeconfig.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.exe
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.deps.json
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.json
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.dev.json
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.pdb
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Inferastructure.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\bin\Debug\netcoreapp3.1\Inferastructure.pdb
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csprojAssemblyReference.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfoInputs.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfo.cs
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.RazorTargetAssemblyInfo.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.CopyComplete
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\obj\Debug\netcoreapp3.1\staticwebassets\AddressBook.StaticWebAssets.Manifest.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\obj\Debug\netcoreapp3.1\staticwebassets\AddressBook.StaticWebAssets.xml
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.pdb
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.genruntimeconfig.cache

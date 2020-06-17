@@ -1,0 +1,82 @@
+C:\Users\C.M\source\repos\Data\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\C.M\source\repos\Data\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\source\repos\Data\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\C.M\source\repos\Data\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\C.M\source\repos\Data\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\C.M\source\repos\Data\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\C.M\source\repos\Data\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\C.M\source\repos\Data\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\source\repos\Data\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\C.M\source\repos\Data\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\source\repos\Data\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\Desktop\New folder (5)\task2\Data\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\Desktop\Tamweely\Tamweely\Data\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\compucity\Documents\TamweelyTask\Tamweely\Data\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\Desktop\Tamweely\New folder\Data\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+F:\Data\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+F:\Data\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+F:\Data\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+F:\Data\Data\bin\Debug\netcoreapp3.1\Data.dll
+F:\Data\Data\bin\Debug\netcoreapp3.1\Data.pdb
+F:\Data\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+F:\Data\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+F:\Data\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+F:\Data\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+F:\Data\Data\obj\Debug\netcoreapp3.1\Data.dll
+F:\Data\Data\obj\Debug\netcoreapp3.1\Data.pdb
+F:\Data\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\C.M\Desktop\Tamweely\New folder\last\Data\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache

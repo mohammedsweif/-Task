@@ -1,0 +1,34 @@
+=======mohammed mohammed sweif 
+=======01285818654
+=======task for tamweely
+-------------------------------------
+=======if you register 
+---------
+
+user name : SamehHussein ------------------->must not content spaces
+email : shussein@tamweely.com.eg
+pasword : 123+Aa ------------>
+confirm :123+Aa ------------>
+
+
+then you check your email 
+i use my finalproject email to send confirmation
+
+
+-----------------------
+===login
+email : shussein@tamweely.com.eg
+pasword : 123+Aa
+
+--------------------
+download button is hidden until you have at least one record in AddressbooK   
+------------------------
+in the search you must check that you machine time is good before 
+ 
+------------------------
+============================================================
+ i use unit of work and repository design pattern and n-tier
+ ===========================================================
+ i didn't use the theme to show that i have good knowledge in front end technology
+ ============================================================
+ 

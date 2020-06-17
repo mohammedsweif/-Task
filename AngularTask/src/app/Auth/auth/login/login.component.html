@@ -1,0 +1,72 @@
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<section class="login-block container-flued">
+
+  <div class="alert alert-warning alert-dismissible fade show" role="alert" *ngIf="this.message !=''     ">
+    {{message}}
+   <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+     <span aria-hidden="true">&times;</span>
+   </button>
+  </div>
+
+  <hr>
+  <h1 style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;padding-left: 20px;">Login</h1>
+  <hr>
+    <div class="container">
+	<div class="row">
+     
+    <div class="card col-md-6 col-xl-6 mb-3" style="width: 700px;height: 400px;background-color: rgb(222, 228, 231);">
+      
+      <div class="card-header" style="color: royalblue;font-size: x-large;font-weight: bolder;">Login</div>
+      <div class="card-body">
+        <div class="col-md-4 login-sec">
+          
+ <form class="login-form" [formGroup]="userform" (ngSubmit)="login()">
+    <div class="form-group">
+      <label for="exampleInputEmail1" style="color:royalblue;">Email</label>
+      <input type="email"  formControlName="Email" class="form-control" style="width: 300px;" placeholder="Email address">
+      <div *ngIf="!userform.get('Email').valid && (userform.get('Email').dirty || userform.get('Email').touched)">
+        <div class="error-message" *ngIf="userform.get('Email').errors.required == true" >
+          <small style="color: red;" >*Email is Required</small>
+        </div>
+      
+      </div>
+    </div>
+    <div class="form-group ">
+      <label for="exampleInputPassword1" style="color:royalblue;" >Password</label>
+      <input   type="Password" formControlName="Password" class="form-control"  style="width: 300px;"   placeholder="Password">
+      <div *ngIf="!userform.get('Password').valid && userform.get('Password').touched">
+        <div class="error-message" *ngIf="userform.get('Password').errors.required == true">
+          <small style="color: red;" >*Password is Required</small>
+        </div>
+        <div class="error-message" *ngIf="userform.get('Password').errors.minlength">
+        <small style="color: red;" >*Password must be at least 4 characters ,at most 8 characters long including lower and upper case characters</small>
+        </div>
+    </div>
+    </div>
+    
+    
+      <div class="form-check">
+      <label class="form-check-label">
+        <input type="checkbox" class="form-check-input">
+        <small>Remember Me</small>
+      </label>
+      <hr>
+      <a  routerLink="/register">register new account</a>
+      <button type="submit" class="btn" style="color: steelblue;" [disabled]="this.userform.invalid">Login</button>
+    </div>
+    
+  </form>
+ 
+  </div>
+      </div>
+    </div>
+    
+    <img class=" col-md-6 col-xl-6   " src="../../../../assets/image/image001.png" width="420px">
+ 
+</div>
+</div>
+</section>

@@ -1,0 +1,97 @@
+
+ 
+<section class="login-block">
+  <div class="alert alert-warning alert-dismissible fade show" role="alert" *ngIf="this.message !=''     ">
+    {{message}}
+   <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+     <span aria-hidden="true">&times;</span>
+   </button>
+  </div>
+ <hr>
+ <h1 style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;padding-left: 20px;">Registration</h1>
+  <hr>
+  <div class="container">
+    <div class="row">
+      <div class="card col-md-6 col-xl-6 mb-3 " style="width: 600px;height: 800px;background-color: rgb(222, 228, 231);">
+        
+        <div class="card-header" style="color: royalblue;font-size: x-large;font-weight: bolder;">Register new Account</div>
+        <div class="card-body">
+          <div class="col-md-4 login-sec">
+            
+            <form class="text-center" [formGroup]="userForm"  (ngSubmit)="register()">
+             
+              <div class="form-group">
+                <label for="exampleInputEmail1" style="color:royalblue;padding-right: 90px;">Username</label>
+              <input type="text" formControlName="UserName"  class="form-control mb-4" style="width: 300px;" placeholder="UserName">
+             <div *ngIf="!this.userForm.get('UserName').valid && this.userForm.get('UserName').touched">
+              <small *ngIf="this.userForm.get('UserName').errors.required == true "  class="form-text  text-danger   mb-4">
+                {{this.massageValidator.UserName.required}}
+              </small>
+              <small *ngIf="this.userForm.get('UserName').errors.minlength"  class="form-text  text-danger   mb-4">
+                {{this.massageValidator.UserName.minLength}}
+              </small>
+              <small *ngIf="this.userForm.get('UserName').errors.maxlength"  class="form-text  text-danger   mb-4">
+                {{this.massageValidator.UserName.maxlength}}
+                
+              </small>
+            </div>
+              </div>
+              
+              <!-- E-mail -->
+              <div class="form-group">
+                <label for="exampleInputEmail1" style="color:royalblue;padding-right: 90px;">Email</label>
+              <input type="email" formControlName="Email" class="form-control mb-4" style="width: 300px;" placeholder="E-mail">
+              <div *ngIf="!this.userForm.get('Email').valid && this.userForm.get('Email').touched">
+                <small *ngIf="this.userForm.get('Email').errors.required == true"  class="form-text text-danger   mb-4">
+                  {{this.massageValidator.Email.required}}
+                </small>
+                <small *ngIf="this.userForm.get('Email').errors.pattern"  class="form-text text-danger   mb-4">
+                    {{this.massageValidator.Email.pattern}}
+                  </small>
+                </div>
+              </div>
+              
+
+              <!-- Password -->
+              <div class="form-group">
+                <label for="exampleInputEmail1" style="color:royalblue;padding-right: 90px;">Password</label>
+              <input type="password"   formControlName="Password" class="form-control" style="width: 300px;" placeholder="Password">
+               <div *ngIf="!this.userForm.get('Password').valid && this.userForm.get('Password').touched">      
+                <small  class="form-text text-danger mb-4" *ngIf="this.userForm.get('Password').errors.required == true" >
+                  {{this.massageValidator.Password.required}}
+              </small>
+              <small  class="form-text text-danger mb-4" *ngIf="this.userForm.get('Password').errors.minLength !== null" >
+                {{this.massageValidator.Password.required}}
+     
+              </small>
+            </div>
+              </div>
+              
+              <div class="form-group">
+                <label for="exampleInputEmail1" style="color:royalblue;padding-right: 20px;">Confirm Password</label>
+                <input type="password"  formControlName="ConfirmPassword" style="width: 300px;" class="form-control" placeholder="ConfirmPassword">
+               <div *ngIf="!this.userForm.get('ConfirmPassword').valid && this.userForm.get('ConfirmPassword').touched">      
+                <small  class="form-text text-danger mb-4" *ngIf="this.userForm.get('ConfirmPassword').errors.required == true" >
+               required 
+              </small>
+              <small  class="form-text text-danger mb-4" *ngIf="this.userForm.get('ConfirmPassword').errors.minLength !== null" >
+                At least 8 characters and 1 digit
+              </small>
+             
+            </div>
+            <small  class="form-text text-danger mb-4" *ngIf="!checkpassandconfirm()" >
+              not matched
+            </small>
+              </div>
+              <!-- Sign up button -->
+              <button class="btn my-4 btn-block  btn-login" type="submit" [disabled]="this.userForm.invalid || !checkpassandconfirm()" >Register</button>
+    </form>
+    </div>
+        </div>
+      </div>
+      <img  class="col-md-6 col-xl-6" src="../../../../assets/image/image001.png"  style="width: 530px;height: 600px;padding-left: 50px;padding-top: 70px;">
+       
+ 
+  </div>
+  </div>
+</section>
